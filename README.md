@@ -1,4 +1,4 @@
-# GenVendingMachine 프로젝트
+# GenPyQt 프로젝트
 
 본 저장소는 PyQt와 다양한 AI/ML 기술을 활용한 여러 데스크톱 앱들을 포함하고 있습니다.  
 Visual Studio Code와 GitHub를 통해 관리 중입니다.
